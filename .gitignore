@@ -1,0 +1,13 @@
+# Kök .gitignore ile çakışmayı önlemek için yerel ekler.
+# Asıl kurallar depo kökündeki .gitignore içinde.
+
+chroma_db/
+
+.env
+.env.*
+!.env.example
+
+backend/.venv/
+frontend/node_modules/
+__pycache__/
+*.py[cod]

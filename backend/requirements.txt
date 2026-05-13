@@ -1,0 +1,14 @@
+fastapi>=0.115.6
+uvicorn[standard]>=0.32.1
+psycopg2-binary>=2.9.10
+python-dotenv>=1.0.1
+openai>=1.55.0
+langgraph>=0.2.0
+langchain-core>=0.3.0
+APScheduler>=3.10.4
+faker>=24.0.0
+pydantic>=2.13.0
+chromadb>=0.5.23
+pypdf>=5.0.0
+python-jose[cryptography]>=3.3.0
+bcrypt>=4.2.0

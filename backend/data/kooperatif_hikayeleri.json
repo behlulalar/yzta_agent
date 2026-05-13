@@ -1,0 +1,202 @@
+[
+    {
+      "kooperatif_id": 1,
+      "ad": "Zap Kadın Kooperatifi",
+      "bolge": "Hakkari",
+      "hikaye": "Hakkari'nin Zap Vadisi'nin yüksek rakımlı yayla köylerinde kurulan bu kooperatif, 2017 yılında 18 kadının bir araya gelmesiyle hayata geçti. Arının yaban çiçeklerinden topladığı balı ve geleneksel tahıl ürünlerini şehir pazarlarına taşımak için kurulan kooperatif, bugün bölgenin en tanınan üreticilerinden biri hâline geldi. Üyeler, atalarından öğrendikleri yöntemleri koruyarak tamamen kimyasal katkısız üretim yapmaktadır.",
+      "urun_ozellikleri": "Yaban balı, süzme bal, organik pirinç, doğal tahin. Tüm ürünler sertifikalı organik üretim koşullarında hazırlanmakta, koruyucu veya katkı maddesi içermemektedir.",
+      "kurulus_yili": 2017,
+      "uye_sayisi": 28,
+      "sertifikalar": "Organik Tarım Üretim Belgesi, Coğrafi İşaret Tescili (Zap Balı)"
+    },
+    {
+      "kooperatif_id": 2,
+      "ad": "Çiçeklerin Özü Kadın Kooperatifi",
+      "bolge": "Hakkari",
+      "hikaye": "Hakkari'nin el değmemiş doğasından ilham alan bu kooperatif, dağ çiçeklerinden elde edilen aromatik yağlar ve doğal bal üretimi üzerine uzmanlaşmıştır. 2019 yılında kurulan kooperatif, bölge kadınlarının geçim kaynağını güvence altına alırken Hakkari'nin nadide flora zenginliğini de tüm Türkiye'ye tanıtmaktadır. Her ürün, mevsiminde ve doğal yollarla hasat edilmektedir.",
+      "urun_ozellikleri": "Çiçek balı, lavanta yağı, kekik yağı, dağ kekiği, kuşburnu. Ürünler soğuk sıkım yöntemiyle işlenmekte ve cam ambalajda sunulmaktadır.",
+      "kurulus_yili": 2019,
+      "uye_sayisi": 22,
+      "sertifikalar": "Doğal Ürün Sertifikası, İyi Tarım Uygulamaları Belgesi"
+    },
+    {
+      "kooperatif_id": 3,
+      "ad": "Demeter Kadın Kooperatifi",
+      "bolge": "Hakkari",
+      "hikaye": "Demeter Kooperatifi, Hakkari'nin dağ köylerinde yaşayan kadınların ekonomik bağımsızlığını desteklemek amacıyla 2020 yılında kuruldu. Kooperatif adını bereketin ve toprağın tanrıçasından alarak doğayla uyumlu üretim anlayışını benimsemiştir. Üyeleri, bitkisel yağlar ve tahıl bazlı geleneksel ürünlerin yanı sıra aromatik bitki karışımları da üretmektedir.",
+      "urun_ozellikleri": "Bitkisel aromatik yağlar, tahin, doğal bal, dağ kekiği. Tüm hammaddeler bölgenin yüksek rakımlı arazilerinden elle toplanmaktadır.",
+      "kurulus_yili": 2020,
+      "uye_sayisi": 19,
+      "sertifikalar": "Organik Tarım Üretim Belgesi"
+    },
+    {
+      "kooperatif_id": 4,
+      "ad": "Sinanpaşa Kadın Kooperatifi",
+      "bolge": "Afyonkarahisar",
+      "hikaye": "Afyonkarahisar'ın Sinanpaşa ilçesinde 2016 yılında kurulan bu kooperatif, Ege ve İç Anadolu'nun kesiştiği bu verimli topraklarda geleneksel el sanatlarını ve gıda üretimini birleştirmektedir. Özellikle ev eriştesi ve kilim dokumacılığıyla tanınan kooperatif, yörenin unutulmaya yüz tutmuş tariflerini ve dokuma tekniklerini yaşatmayı amaçlamaktadır.",
+      "urun_ozellikleri": "Ev eriştesi (sade, sebzeli, pancarlı), el dokuma kilim, bulgur, tahin-pekmez. Ürünler tamamen el yapımı olup endüstriyel işlem görmemektedir.",
+      "kurulus_yili": 2016,
+      "uye_sayisi": 35,
+      "sertifikalar": "Geleneksel El Sanatları Belgesi, TSE Gıda Üretim İzni"
+    },
+    {
+      "kooperatif_id": 5,
+      "ad": "Başmakçı Kadın Kooperatifi",
+      "bolge": "Afyonkarahisar",
+      "hikaye": "Afyonkarahisar'ın Başmakçı ilçesinde 2018 yılında faaliyete geçen kooperatif, haşhaş ve tahıl tarımıyla meşhur bölgenin geleneksel lezzetlerini markalaştırma hedefiyle kuruldu. Üyelerin büyük çoğunluğu çiftçi ailelere mensup olup tarla ürünlerini işlenmiş gıdaya dönüştürerek katma değer yaratmaktadır.",
+      "urun_ozellikleri": "Çiçek balı, bulgur, kuru fasulye, nohut, tahin-pekmez. Tüm tahıllar bölge tarlalarından temin edilip geleneksel yöntemlerle işlenmektedir.",
+      "kurulus_yili": 2018,
+      "uye_sayisi": 26,
+      "sertifikalar": "İyi Tarım Uygulamaları Belgesi, TSE Gıda Üretim İzni"
+    },
+    {
+      "kooperatif_id": 6,
+      "ad": "Emirdağ Kadın Kooperatifi",
+      "bolge": "Afyonkarahisar",
+      "hikaye": "Afyonkarahisar'ın Emirdağ ilçesinde 2015 yılında kurulan bu kooperatif, bölge kadınlarının el sanatı birikimini ekonomik değere dönüştürmek amacıyla faaliyete geçti. Hem gıda hem el sanatı üretimi yapan kooperatif, özellikle keçe broş ve el işlemeli ürünleriyle ulusal fuarlarda ödül kazanmıştır.",
+      "urun_ozellikleri": "Kuru fasulye, nohut, keçe broş, el nakışlı ürünler. El sanatı ürünleri tek parça olup her biri özgün tasarım taşımaktadır.",
+      "kurulus_yili": 2015,
+      "uye_sayisi": 31,
+      "sertifikalar": "Geleneksel El Sanatları Belgesi, Kültür Bakanlığı Onaylı Üretici"
+    },
+    {
+      "kooperatif_id": 7,
+      "ad": "Aizanoi Kadın Kooperatifi",
+      "bolge": "Kütahya",
+      "hikaye": "Antik Aizanoi kentinin bulunduğu Çavdarhisar ilçesinde 2019 yılında kurulan bu kooperatif, tarihin izlerini taşıyan bu topraklarda kadın emeğini görünür kılmayı hedeflemektedir. Kooperatif adını bölgedeki antik kentten alarak yerel kültürel mirası ürettiği ürünlerle harmanlıyor. Özellikle pancar sapı turşusu ve lavanta kese ürünleri tüm yurt genelinde talep görmektedir.",
+      "urun_ozellikleri": "Pancar sapı turşusu, lavanta kesesi, doğal el sabunu, ev eriştesi. Tüm ürünler el yapımı olup geleneksel Kütahya tariflerine sadık kalınarak üretilmektedir.",
+      "kurulus_yili": 2019,
+      "uye_sayisi": 24,
+      "sertifikalar": "TSE Gıda Üretim İzni, Doğal Ürün Sertifikası"
+    },
+    {
+      "kooperatif_id": 8,
+      "ad": "Domaniç Hanımeli Kadın Kooperatifi",
+      "bolge": "Kütahya",
+      "hikaye": "Kütahya'nın Domaniç ilçesinde 2017 yılında kurulan Hanımeli Kooperatifi, orman köylerinde yaşayan kadınların el becerilerini ve doğal ürün birikimini ticarileştirmek amacıyla hayata geçirildi. Hanımeli çiçeğinden esinlenerek adlandırılan kooperatif, hem yöresel gıda hem de el sanatı dalında üretim yapmaktadır.",
+      "urun_ozellikleri": "Tarhana, ev eriştesi, örgü çanta, doğal el sabunu. Tarhana geleneksel güneşte kurutma yöntemiyle hazırlanmakta, örgü ürünler ise doğal yünden el işiyle üretilmektedir.",
+      "kurulus_yili": 2017,
+      "uye_sayisi": 20,
+      "sertifikalar": "TSE Gıda Üretim İzni, Geleneksel El Sanatları Belgesi"
+    },
+    {
+      "kooperatif_id": 9,
+      "ad": "Katılımcı Kadınlar Kooperatifi",
+      "bolge": "Kütahya",
+      "hikaye": "Kütahya merkezde 2016 yılında kurulan bu kooperatif, farklı ilçelerden gelen kadınları bir çatı altında buluşturmasıyla bölgede öncü bir model hâline geldi. Geniş üye tabanı sayesinde çeşitli ürün kategorilerinde üretim yapabilen kooperatif, hem gıda hem kişisel bakım hem de el sanatı alanlarında faaliyet göstermektedir.",
+      "urun_ozellikleri": "Yufka, ev eriştesi, lavanta kesesi, kozmetik şap taşı, amigurumi oyuncak. Ürün çeşitliliği kooperatifin en güçlü yanını oluşturmaktadır.",
+      "kurulus_yili": 2016,
+      "uye_sayisi": 42,
+      "sertifikalar": "TSE Gıda Üretim İzni, Doğal Kozmetik Üretim Belgesi"
+    },
+    {
+      "kooperatif_id": 10,
+      "ad": "Ortakbahçe Kadın Kooperatifi",
+      "bolge": "Giresun",
+      "hikaye": "Karadeniz'in fındık bahçeleriyle kaplı yamaçlarında, Giresun'un Ortakbahçe köyünde 2018 yılında kurulan bu kooperatif, bölgenin en değerli ürünü fındığı işleyerek katma değerli ürünlere dönüştürmektedir. Kooperatif, fındık hasadından artakalan ürünleri de değerlendirerek sıfır israf anlayışıyla çalışmaktadır.",
+      "urun_ozellikleri": "Fındık ezmesi, fındık kreması, doğal fındık yağı. Fındıklar kooperatif üyelerinin kendi bahçelerinden soğuk sıkım yöntemiyle işlenmektedir.",
+      "kurulus_yili": 2018,
+      "uye_sayisi": 18,
+      "sertifikalar": "Coğrafi İşaret Tescili (Giresun Fındığı), TSE Gıda Üretim İzni"
+    },
+    {
+      "kooperatif_id": 11,
+      "ad": "Çal Kadın Kooperatifi",
+      "bolge": "Denizli",
+      "hikaye": "Ege'nin güzide ilçelerinden Denizli'nin Çal'ında 2017 yılında kurulan bu kooperatif, üzüm bağları ve lavanta tarlalarıyla ünlü bölgenin geleneksel ürünlerini modern pazara taşımaktadır. Özellikle fermente ürünler ve doğal sirkesiyle nam salmış kooperatif, Ege mutfağının özgün tatlarını yaşatmaktadır.",
+      "urun_ozellikleri": "Lavanta çiçeği, fermente sirke, karışık turşu, kuşburnu reçeli. Sirke geleneksel küp fermentasyonu yöntemiyle en az 6 ay dinlendirilerek üretilmektedir.",
+      "kurulus_yili": 2017,
+      "uye_sayisi": 23,
+      "sertifikalar": "Geleneksel Gıda Üretim Belgesi, İyi Tarım Uygulamaları Belgesi"
+    },
+    {
+      "kooperatif_id": 12,
+      "ad": "Rihen Kadın Kooperatifi",
+      "bolge": "Hatay",
+      "hikaye": "Hatay'ın binlerce yıllık zeytinyağı geleneğini yaşatan Rihen Kooperatifi, 2016 yılında Antakya'ya bağlı zeytin köylerinde kuruldu. Kooperatif adını Arapça'da fesleğen anlamına gelen 'reyhan'dan almakta; Akdeniz mutfağının vazgeçilmez lezzetlerini tüketiciye ulaştırmaktadır. Antep fıstığı sabunu olarak da bilinen Defne sabunu kooperatifin amiral gemisi ürünüdür.",
+      "urun_ozellikleri": "Defne sabunu, naturel sızma zeytinyağı, yeşil zeytin salamurası, nar ekşisi. Zeytinyağı erken hasat yöntemiyle soğuk sıkılmakta ve asitliği %0,5'in altında tutulmaktadır.",
+      "kurulus_yili": 2016,
+      "uye_sayisi": 29,
+      "sertifikalar": "Coğrafi İşaret Tescili (Hatay Defne Sabunu), Organik Tarım Üretim Belgesi"
+    },
+    {
+      "kooperatif_id": 13,
+      "ad": "Horanta Kadın Kooperatifi",
+      "bolge": "Hatay",
+      "hikaye": "Hatay'ın Hassa ilçesinde 2018 yılında kurulan Horanta Kooperatifi, Amanos Dağları eteklerindeki verimli arazilerde geleneksel Hatay mutfağının temel malzemelerini üretmektedir. Domates ve biber salçası üretiminde uzmanlaşan kooperatif, yazın hasat ettiği ürünleri geleneksel kazanlarda pişirerek yıl boyu taze lezzet sunar.",
+      "urun_ozellikleri": "Domates salçası, biber salçası, karışık salça, nar ekşisi, naturel zeytinyağı, dağ kekiği. Salçalar güneşte kurutma ve geleneksel kazan pişirimi yöntemiyle üretilmektedir.",
+      "kurulus_yili": 2018,
+      "uye_sayisi": 33,
+      "sertifikalar": "TSE Gıda Üretim İzni, İyi Tarım Uygulamaları Belgesi"
+    },
+    {
+      "kooperatif_id": 14,
+      "ad": "Tokat Kadın Kooperatifi",
+      "bolge": "Tokat",
+      "hikaye": "Karadeniz'in kapısı Tokat'ta 2015 yılında kurulan bu kooperatif, yörenin zengin tarım mirası üzerine inşa edilmiştir. Tokat, Türkiye'nin en büyük tarhana ve reçel üretim merkezlerinden biri olarak bilinmekte; kooperatif bu geleneği modern standartlarla buluşturmaktadır. Özellikle kuşburnu ve nar reçeli ulusal ödüller almıştır.",
+      "urun_ozellikleri": "Tarhana, kuşburnu reçeli, karışık turşu, domates salçası, bulgur, ev mantısı. Tarhana en az 21 gün güneşte kurutularak hazırlanmakta, katkı maddesi içermemektedir.",
+      "kurulus_yili": 2015,
+      "uye_sayisi": 38,
+      "sertifikalar": "Coğrafi İşaret Tescili (Tokat Tarhanası), TSE Gıda Üretim İzni"
+    },
+    {
+      "kooperatif_id": 15,
+      "ad": "Develi Kadın Kooperatifi",
+      "bolge": "Kayseri",
+      "hikaye": "Kayseri'nin Develi ilçesinde 2019 yılında kurulan kooperatif, Erciyes Dağı eteklerindeki bu tarihi ilçenin el sanatları geleneğini sürdürmektedir. Develi, yüzyıllardır Kayseri mantısıyla özdeşleşmiş olup kooperatif bu mirası markalaştırarak tüm Türkiye'ye taşımaktadır.",
+      "urun_ozellikleri": "El açması ev mantısı, örgü çanta, el nakışlı ürünler. Mantı tek tek elle açılmakta ve geleneksel Kayseri tarifine göre hazırlanmaktadır; paket başına 800-1000 adet mantı düşmektedir.",
+      "kurulus_yili": 2019,
+      "uye_sayisi": 21,
+      "sertifikalar": "Coğrafi İşaret Tescili (Kayseri Mantısı), Geleneksel El Sanatları Belgesi"
+    },
+    {
+      "kooperatif_id": 16,
+      "ad": "Ayvalık Tarımsal Kalkınma Kooperatifi",
+      "bolge": "Balıkesir",
+      "hikaye": "Ege'nin inci tanesi Ayvalık'ta 2014 yılında kurulan bu kooperatif, Türkiye'nin en kaliteli zeytinyağı üretim bölgelerinden birinde faaliyet göstermektedir. Asırlık zeytin bahçelerinde yetişen meyvelerden elde edilen zeytinyağı, uluslararası yarışmalarda defalarca ödül kazanmıştır. Kooperatif, erken hasat ve soğuk sıkım ilkesinden taviz vermemektedir.",
+      "urun_ozellikleri": "Naturel sızma zeytinyağı, sızma zeytinyağı, fermente sirke. Zeytinyağının asit oranı %0,3'ün altında olup polifenol değeri Ege ortalamasının iki katıdır.",
+      "kurulus_yili": 2014,
+      "uye_sayisi": 45,
+      "sertifikalar": "Uluslararası Zeytinyağı Konseyi Sertifikası, Organik Tarım Üretim Belgesi, AB Coğrafi İşaret Belgesi"
+    },
+    {
+      "kooperatif_id": 17,
+      "ad": "Atmalı Kadın Kooperatifi",
+      "bolge": "Adıyaman",
+      "hikaye": "Güneydoğu Anadolu'nun bereketli topraklarında, Adıyaman'ın Atmalı köyünde 2020 yılında kurulan bu kooperatif, bölgenin acı biberini ve nar ekşisini tüm Türkiye sofralarına taşımayı hedeflemektedir. Kooperatif, Güneydoğu mutfağının karakteristik lezzetlerini koruyarak geleneksel tarif ve teknikleri belgeleme çalışması da yürütmektedir.",
+      "urun_ozellikleri": "Biber salçası, nar ekşisi, domates salçası. Biber salçası yöreye özgü kıl biberden üretilmekte olup kendine has acılığı ve aromasıyla diğer bölge salçalarından ayrışmaktadır.",
+      "kurulus_yili": 2020,
+      "uye_sayisi": 17,
+      "sertifikalar": "TSE Gıda Üretim İzni, Geleneksel Gıda Üretim Belgesi"
+    },
+    {
+      "kooperatif_id": 18,
+      "ad": "Biga Kadın Kooperatifi",
+      "bolge": "Çanakkale",
+      "hikaye": "Çanakkale'nin Biga ilçesinde 2018 yılında kurulan kooperatif, Marmara ile Ege'nin buluştuğu bu verimli coğrafyanın geleneksel mutfak mirasını markalaştırmaktadır. Tahıl ve hamur işleri konusunda bölgede otorite sayılan kooperatif, büyükannelerden öğrenilen tarifleri titizlikle korumaktadır.",
+      "urun_ozellikleri": "Tarhana, amigurumi oyuncak, ev eriştesi. Tarhana sabah sütüyle yoğurularak hazırlanmakta ve özel kurutma raflarında güneşte bekletilmektedir.",
+      "kurulus_yili": 2018,
+      "uye_sayisi": 22,
+      "sertifikalar": "TSE Gıda Üretim İzni, Geleneksel El Sanatları Belgesi"
+    },
+    {
+      "kooperatif_id": 19,
+      "ad": "Eşme Kadın Kooperatifi",
+      "bolge": "Uşak",
+      "hikaye": "Uşak'ın Eşme ilçesinde 2017 yılında kurulan kooperatif, el dokuma kilimleriyle tarihe geçmiş bu yörenin zanaat geleneğini sürdürmektedir. Eşme kilimleri UNESCO tarafından somut olmayan kültürel miras listesine alınmış olup kooperatif bu mirası yaşatma sorumluluğunu taşımaktadır. Dokuma işleri yanı sıra yöresel gıda ürünleri de üretilmektedir.",
+      "urun_ozellikleri": "El dokuma kilim ve seccade, ev eriştesi, el nakışlı lavanta kesesi. Her kilim ortalama 3-4 haftalık el emeği içermekte olup doğal boya kullanılmaktadır.",
+      "kurulus_yili": 2017,
+      "uye_sayisi": 27,
+      "sertifikalar": "UNESCO Somut Olmayan Kültürel Miras Belgesi, Geleneksel El Sanatları Belgesi"
+    },
+    {
+      "kooperatif_id": 20,
+      "ad": "Trakyam Kadın Kooperatifi",
+      "bolge": "Tekirdağ",
+      "hikaye": "Trakya'nın bağ ve tarım cenneti Tekirdağ'da 2016 yılında kurulan Trakyam Kooperatifi, bölgenin köklü tarım kültürünü modern ürünlerle buluşturmaktadır. Üzüm bağlarıyla çevrili Trakya'nın asma yaprakları ve fermente ürünleri kooperatifin öne çıkan kalemleri arasındadır. Kooperatif aynı zamanda el dokuma ve kilim geleneğini de sürdürmektedir.",
+      "urun_ozellikleri": "Salamura asma yaprağı, el dokuma kilim, fermente sirke. Asma yaprakları ilkbaharda körpe hâlde toplanmakta ve geleneksel tuzlama yöntemiyle salamura edilmektedir.",
+      "kurulus_yili": 2016,
+      "uye_sayisi": 30,
+      "sertifikalar": "TSE Gıda Üretim İzni, Geleneksel El Sanatları Belgesi, İyi Tarım Uygulamaları Belgesi"
+    }
+  ]

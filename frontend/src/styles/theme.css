@@ -1,0 +1,50 @@
+/**
+ * Kadın kooperatifleri — yumuşak palet (şeftali / tozlu gül, yeşil yok)
+ */
+:root {
+  /* Zeminler — biraz daha sıcak ve soft */
+  --kp-linen: #faf7f5;
+  --kp-paper: #fffdfc;
+  --kp-mist: #f7f0ec;
+
+  /* Metin — daha yumuşak kontrast */
+  --kp-ink: #2d2928;
+  --kp-ink-soft: #575150;
+  --kp-muted: #8c8583;
+  --kp-muted-light: #b5adab;
+
+  /* Çizgiler */
+  --kp-border: #ebe3df;
+  --kp-border-strong: #ddd4cf;
+  --kp-shadow: rgba(61, 41, 46, 0.05);
+  --kp-shadow-deep: rgba(61, 41, 46, 0.1);
+
+  /* Birincil vurgu — doygunluğu düşük gül */
+  --kp-rose-900: #6b4554;
+  --kp-rose-800: #845a68;
+  --kp-rose-700: #9d6f7d;
+  --kp-rose-100: #fcecef;
+  --kp-rose-50: #fdf6f8;
+
+  /* İkincil — şeftali ve tozlu lavanta-mürdüm tonları */
+  --kp-soft-50: #fdf5f2;
+  --kp-soft-100: #faeee9;
+  --kp-soft-200: #e8d9d4;
+  --kp-dust-700: #6f6268;
+  --kp-dust-600: #88757d;
+  --kp-lilac-mist: #f5f0f4;
+
+  /* Kenar çubuğu — hafif yumuşak koyu */
+  --kp-sidebar-top: #3d3839;
+  --kp-sidebar-mid: #2f2b2c;
+  --kp-sidebar-bot: #221f20;
+  --kp-sidebar-text: #faf6f4;
+  --kp-sidebar-muted: #afa4a7;
+  --kp-sidebar-border: rgba(255, 245, 248, 0.1);
+  --kp-sidebar-hover: rgba(255, 235, 240, 0.06);
+  --kp-sidebar-active: rgba(157, 111, 125, 0.38);
+
+  /* Gönder — yumuşak mürdüm-gül gradient */
+  --kp-send-top: #9d6f7d;
+  --kp-send-bot: #6b4554;
+}

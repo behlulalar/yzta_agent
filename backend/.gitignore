@@ -1,0 +1,4 @@
+# Kök .gitignore ile çakışmayı önlemek için yerel ekler.
+# Asıl kurallar depo kökündeki .gitignore içinde.
+
+chroma_db/
